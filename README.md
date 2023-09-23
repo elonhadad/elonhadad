@@ -1,4 +1,7 @@
-Hi 👋 My name is Elon Hadad ===========================  Computer science student ------------------------  * 🌍  I'm based in Qiryat Shmona, Israel * ✉️  You can contact me at [elonhadad@gmail.com](mailto:elonhadad@gmail.com) * 🧠  I'm learning Angular, JS, C#
+Hi 👋 My name is Elon Hadad Computer science student Now in the third year of the degree.
+* 🌍  I'm based in Qiryat Shmona, Israel
+* ✉️  You can contact me at [elonhadad@gmail.com](mailto:elonhadad@gmail.com)
+* 🧠  I'm learning Angular, JS, C#
 
 ### Skills  
 
