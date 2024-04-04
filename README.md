@@ -10,8 +10,6 @@
             background-color: #ffffff; /* רקע לבן */
             color: #000000; /* צבע טקסט שחור */
         }
-
-        /* עיצוב למצב חושך */
         @media (prefers-color-scheme: dark) {
             .container {
                 background-color: #222222; /* רקע כהה */
