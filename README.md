@@ -14,7 +14,7 @@ Hi 👋 My name is Elon Hadad Computer science student Now in the third year of 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/elonhadad/WEB_TODO-S_PROJECT_2024" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=elonhadad&repo=WEB_TODO-S_PROJECT_2024&title_color=4a4a4a&text_color=757575&icon_color=0891b2&bg_color=e8e8e8&hide_border=true&locale=en" /></a><a href="https://github.com/elonhadad/FootballResults_project" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=elonhadad&repo=FootballResults_project&title_color=4a4a4a&text_color=757575&icon_color=0891b2&bg_color=e8e8e8&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/elonhadad/WEB_TODO-S_PROJECT_2024" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elonhadad&repo=WEB_TODO-S_PROJECT_2024&title_color=4a4a4a&text_color=757575&icon_color=0891b2&bg_color=e8e8e8&hide_border=true&locale=en" /></a><a href="https://github.com/elonhadad/FootballResults_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elonhadad&repo=FootballResults_project&title_color=4a4a4a&text_color=757575&icon_color=0891b2&bg_color=e8e8e8&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br />
 
