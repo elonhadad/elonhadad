@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Mode Switch</title>
+    <style>
+        /* עיצוב רגיל */
+        .container {
+            background-color: #ffffff; /* רקע לבן */
+            color: #000000; /* צבע טקסט שחור */
+        }
+
+        /* עיצוב למצב חושך */
+        @media (prefers-color-scheme: dark) {
+            .container {
+                background-color: #222222; /* רקע כהה */
+                color: #ffffff; /* צבע טקסט לבן */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+
+
+
 Hi 👋 My name is Elon Hadad Computer science student Now in the third year of the degree.
 * 🌍  I'm based in Qiryat Shmona, Israel
 * ✉️  You can contact me at [elonhadad@gmail.com](mailto:elonhadad@gmail.com)
@@ -24,3 +52,6 @@ Hi 👋 My name is Elon Hadad Computer science student Now in the third year of 
 <br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/elonhadad/Object-Oriented-Programming---JAVA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elonhadad&repo=Object-Oriented-Programming---JAVA&title_color=4a4a4a&text_color=757575&icon_color=0891b2&bg_color=e8e8e8&hide_border=true&locale=en" /></a><a href="https://github.com/elonhadad/leetcode_sol" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elonhadad&repo=leetcode_sol&title_color=4a4a4a&text_color=757575&icon_color=0891b2&bg_color=e8e8e8&hide_border=true&locale=en" /></a></div>
+    </div>
+</body>
+</html>
